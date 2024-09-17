@@ -1,7 +1,7 @@
 ﻿# pokemoncard
 ------functinality 
 *search functionality
-* data get from api
+*data get from api
 *.join("") and .splite(number,number)
 
  
